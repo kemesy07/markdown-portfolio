@@ -1,1 +1,11 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+HABILIDADES
+
+*Manejo de Metodologias Agiles*
+
+_SCRUM_
+
+**ROL**
+
+__- Scrum Master__
+
+_- También **Product Owner** en grupos de trabajos pequeños._
